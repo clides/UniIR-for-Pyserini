@@ -1,8 +1,8 @@
 # UniIR for Pyserini
 
 [![PyPI](https://img.shields.io/pypi/v/uniir_for_pyserini?color=brightgreen)](https://pypi.org/project/uniir_for_pyserini/)
-[![Downloads](https://static.pepy.tech/personalized-badge/uniir_for_pyserini?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=downloads)](https://pepy.tech/project/uniir_for_pyserini)
-[![Downloads](https://static.pepy.tech/personalized-badge/uniir_for_pyserini?period=week&units=international_system&left_color=grey&right_color=brightgreen&left_text=downloads/week)](https://pepy.tech/project/uniir_for_pyserini)
+[![Downloads](https://static.pepy.tech/personalized-badge/uniir-for-pyserini?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=downloads)](https://pepy.tech/project/uniir-for-pyserini)
+[![Downloads](https://static.pepy.tech/personalized-badge/uniir-for-pyserini?period=week&units=international_system&left_color=grey&right_color=brightgreen&left_text=downloads/week)](https://pepy.tech/project/uniir-for-pyserini)
 [![LICENSE](https://img.shields.io/badge/license-Apache-blue.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
 
 [**🌐 Homepage**](https://tiger-ai-lab.github.io/UniIR/) | [**🤗 Dataset(M-BEIR Benchmark)**](https://huggingface.co/datasets/TIGER-Lab/M-BEIR) | [**🤗 Checkpoints(UniIR models)**](https://huggingface.co/TIGER-Lab/UniIR) | [**📖 arXiv**](https://arxiv.org/pdf/2311.17136.pdf) | [**Original UniIR GitHub**](https://github.com/TIGER-AI-Lab/UniIR)
